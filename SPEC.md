@@ -3,7 +3,7 @@
 Before choosing a layout, say what this reader cannot understand from the raw
 profile. Fill the brackets; keep the useful defaults. Six lines, not a feature list.
 
-- **Thing:** [Analyzer or Showcase] using [profile filename] to answer [one question].
+- **Thing:** Showcase using profile-starter.json to answer Which cantidate an interviewer should selected.
 - **Audience:** [One specific person in a real situation, and what they need to decide].
 - **Requirements:** One supported claim, its exact source fields, and one useful next action.
 - **Guardrails:** Fictional data only; unchanged fixtures; one HTML file; no frameworks, external assets, live APIs, keys or invented outcomes.
