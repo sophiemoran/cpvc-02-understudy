@@ -5,7 +5,7 @@ unclear, ask before editing. This file briefs the agent; it does not run the pag
 
 ## My reader rule
 
-My reader rule: Explain the hiring recommendation in plain language before showing the profile fields that support it, without claiming anything the JSON does not show.
+Explain what the candidate’s project shows about their experience in plain language before showing the profile fields that support it, without making claims the JSON does not support.
 
 ## Scope and evidence
 
