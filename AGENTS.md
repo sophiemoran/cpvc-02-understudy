@@ -5,8 +5,7 @@ unclear, ask before editing. This file briefs the agent; it does not run the pag
 
 ## My reader rule
 
-[Replace with one observable rule. Example: explain each project in ordinary
-language before showing technical terms, without inventing a missing purpose.]
+My reader rule: Explain the hiring recommendation in plain language before showing the profile fields that support it, without claiming anything the JSON does not show.
 
 ## Scope and evidence
 
